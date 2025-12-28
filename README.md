@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhisheksgithubrit&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -51,13 +51,14 @@
 
 ---
 
-## GitHub Stats
+## GitHub Stats## GitHub Activity
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abhisheksgithubrit&show_icons=true&theme=tokyonight&hide_border=true" />
+- 📈 Consistent contribution history
+- 🔧 Active development across multiple projects
+- 🚀 Regular commits in AI, ML, Backend & DevOps repositories
 
-<img src="https://streak-stats.demolab.com?user=Abhisheksgithubrit&theme=tokyonight&hide_border=true" />
+👉 Scroll down to see my **live contribution graph** below.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheksgithubrit&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
