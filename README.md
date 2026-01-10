@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋 I'm Abhishek N Alavandi</h2>
 
 <p align="center">
-<b>AI • Data Science • Backend • DevOps Enthusiast</b>
+<b>Aspiring Fullstack Developer • AI • Data Science • Backend • DevOps Enthusiast</b>
 </p>
 
 <p align="center">
